@@ -19,7 +19,8 @@ se face din text, culoare și grafică.
 **Pe fiecare poezie e trecută ora la care a fost terminată.** Nu data, ora.
 03:09. 00:15. 17:10. 06:30.
 
-Din cele 232 de poezii, aproape o treime sunt scrise între 22:00 și 06:00.
+Din cele 232 de poezii pe care le avem extrase (volumele I, IV, VI și VII),
+71 sunt scrise între 22:00 și 06:00 — aproape o treime.
 Asta nu e o curiozitate, e tot brandul. Ora spune ce nu spune poezia: că a fost
 scrisă atunci, nu compusă la rece. Nimeni altcineva nu are asta.
 
@@ -159,8 +160,9 @@ Succesul se măsoară în **distribuiri și salvări, nu în like-uri.**
 
 ## Fondul de poezii
 
-Cele 232 de poezii din cele șapte volume sunt extrase într-un fișier `poezii.json`,
-cu câmpurile `vol`, `titlu`, `ora`, `versuri`.
+Poeziile din volumele I, IV, VI și VII — 232 la număr — sunt extrase într-un fișier
+`poezii.json`, cu câmpurile `vol`, `titlu`, `ora`, `versuri`. Volumele II, III și V
+nu sunt încă extrase; când apar PDF-urile, se adaugă în același fișier.
 
 **Acest fișier nu se pune pe internet.** Sunt cărțile ei, publicate și protejate de
 drept de autor. Se ține local, pe calculatorul ei. Din el se aleg strofele, câte una

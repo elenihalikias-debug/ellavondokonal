@@ -20,12 +20,12 @@ s-o ocolim, e identitatea brandului. Tot ce producem se face din text, culoare
 
 **A doua regulă, cea care mă face de nerecunoscut de altcineva:** pe fiecare
 poezie a mea e trecută ora la care am terminat-o. Nu data, ora. 03:09. 00:15.
-17:10. Din cele 232 de poezii, aproape o treime sunt scrise între zece seara și
-șase dimineața. Ora apare pe absolut tot ce iese — placă de citat, slide de
+17:10. Din cele 232 de poezii extrase până acum — volumele I, IV, VI și VII — șaptezeci și
+una sunt scrise între zece seara și șase dimineața, aproape o treime. Ora apare pe absolut tot ce iese — placă de citat, slide de
 carusel, reel, caption. Dacă un material nu are ora pe el, nu e gata.
 
-**Fondul de lucru.** Am un fișier `poezii.json` cu toate cele 232 de poezii
-(volumul, titlul, ora, versurile). Îl țin pe calculatorul meu, nu pe internet,
+**Fondul de lucru.** Am un fișier `poezii.json` cu 232 de poezii extrase din volumele I, IV, VI și VII
+(volumul, titlul, ora, versurile). Volumele II, III și V nu sunt încă extrase. Îl țin pe calculatorul meu, nu pe internet,
 pentru că sunt cărțile mele. Când lucrăm, îți dau fișierul sau poeziile de care
 avem nevoie.
 

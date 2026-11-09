@@ -21,7 +21,8 @@ Claude îți ține skill-urile. Dacă nu știi unde e, lipește-i lui Claude mes
 ăsta: *„Vreau să instalez un skill. Am folderul cioburi-de-suflet în Downloads.
 Unde îl pun?"*
 
-**3. Poeziile.** Fișierul cu cele 232 de poezii **nu e în depozitul ăsta** și nu
+**3. Poeziile.** Fișierul cu cele 232 de poezii extrase (volumele I, IV, VI și VII)
+**nu e în depozitul ăsta** și nu
 trebuie pus pe internet — sunt cărțile tale. Îl ții pe calculatorul tău și i-l
 dai lui Claude când lucrați. Structura e descrisă în skill.
 
