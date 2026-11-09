@@ -1,0 +1,43 @@
+/* Cioburi de suflet · paleta completă, gata de lipit */
+:root{
+  /* fundalul brandului - negrul nu se folosește */
+  --fond:        #3B1024;  /* vișiniu închis */
+  --suprafata:   #4A1A2E;
+  --linie:       #6B3146;
+  --lumina:      #FBEFF4;  /* text pe fundal închis */
+  --sters:       #C9A3B2;
+
+  /* cele șapte volume */
+  --vol1:        #024878;  /* albastru      */
+  --vol2:        #762849;  /* vișiniu       */
+  --vol3:        #4B1764;  /* violet        */
+  --vol4:        #E83694;  /* magenta       */
+  --vol5:        #C8ECF8;  /* bleu gheață - fundal deschis */
+  --vol6:        #2A762B;  /* verde         */
+  --vol7:        #FEDA01;  /* galben - fundal deschis */
+  --vol7b:       #B13A14;  /* cărămiziu, a doua culoare a volumului VII */
+
+  /* cerneala potrivită peste fiecare volum */
+  --ink-vol1:    #EAF3FA;
+  --ink-vol2:    #FBEFF4;
+  --ink-vol3:    #F2EAF7;
+  --ink-vol4:    #FFF4F9;
+  --ink-vol5:    #0B2430;  /* închisă, fundalul e deschis */
+  --ink-vol6:    #EBF7EC;
+  --ink-vol7:    #3B1024;  /* închisă, fundalul e deschis */
+
+  /* constante */
+  --rosu-ciob:   #C03A3A;
+  --rosu-clar:   #D85050;
+  --alb-aripa:   #F6F6F4;
+  --argint:      #B8B8B8;
+}
+
+/* fonturile, de pe Google Fonts */
+/* @import url('https://fonts.googleapis.com/css2?family=Archivo:wght@400;600&family=Fraunces:opsz,wght@9..144,600&family=Literata:ital,wght@0,400;1,400&display=swap'); */
+
+.titlu { font-family:'Fraunces',Georgia,serif; font-weight:600; letter-spacing:-.02em; }
+.vers  { font-family:'Literata',Georgia,serif; font-style:italic; line-height:1.44; }
+.text  { font-family:'Archivo',sans-serif; }
+.ora   { font-family:'Archivo',sans-serif; font-weight:600; letter-spacing:.32em;
+         font-variant-numeric:tabular-nums; }

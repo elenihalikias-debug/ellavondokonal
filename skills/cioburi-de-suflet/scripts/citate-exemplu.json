@@ -1,0 +1,18 @@
+[
+  {"vers": ["Vreau doar atât cât vrei și tu,",
+            "Nu vreau nimic în plus,",
+            "Vreau să spui da sau să spui nu,",
+            "Dar totuși, un răspuns."],
+   "titlu": "Fii sincer!", "vol": 1, "ora": "00:15", "fundal": "fond"},
+
+  {"vers": ["Acum nu dorm...", "Doar mă gândesc la tine,",
+            "La clipele frumoase", "Ce-am petrecut în doi...",
+            "Și amintiri trezesc", "Trăiri printre suspine,",
+            "C-acum, sunt doar cu mine...", "Nu suntem amândoi..."],
+   "titlu": "Acum nu dorm...", "vol": 6, "ora": "03:09",
+   "fundal": "../assets/fundal-vol6-verde.jpg"},
+
+  {"vers": ["Mi-aș fi dorit să fii aici...", "Să mă cuprinzi în brațe,",
+            "Să spunem ce avem de spus...", "Să n-amăgim speranțe..."],
+   "titlu": "Mi-aș fi dorit", "vol": 7, "ora": "11:30", "fundal": "culoare"}
+]

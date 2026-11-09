@@ -1,0 +1,6 @@
+placi/
+**/placi/
+*.pyc
+__pycache__/
+poezii.json
+verificare.png
