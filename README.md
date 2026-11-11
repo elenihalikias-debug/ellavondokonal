@@ -101,7 +101,9 @@ Poeziile și cele șapte volume **Cioburi de suflet** sunt ale Ellei von Dokonal
 toate drepturile rezervate. Depozitul ăsta conține doar unelte de lucru și
 câteva strofe date ca exemplu, publicate cu acordul autoarei.
 
-Fundalurile colorate sunt prelucrate după fotografii de pe Unsplash, folosite
-în baza licenței Unsplash.
+Fundalurile colorate sunt prelucrări după fotografii de pe Unsplash, folosite în
+baza [licenței Unsplash](https://unsplash.com/license). Cine a făcut fiecare
+fotografie, și care dintre ele nu a putut fi identificată, scrie în
+[`CREDITE.md`](CREDITE.md).
 
 Cărțile: [meleti.ro/autor/ellavondokonal](https://meleti.ro/autor/ellavondokonal)
